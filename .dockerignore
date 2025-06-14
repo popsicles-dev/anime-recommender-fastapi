@@ -1,0 +1,15 @@
+__pycache__/
+*.pkl
+*.csv
+*.pyc
+*.pyo
+*.pyd
+*.log
+.env
+*.sqlite3
+.ipynb_checkpoints/
+.DS_Store
+
+
+
+
